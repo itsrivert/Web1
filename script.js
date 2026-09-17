@@ -2,5 +2,5 @@ const boton = document.getElementById("saludarBtn");
 const mensaje = document.getElementById("mensaje");
 
 boton.addEventListener("click", function () {
-    mensaje.textContent = "¡Hola! 👋 Bienvenido a mis papois.";
+    mensaje.textContent = "¡Hola! 👋 Bienvenidos mis papois.";
 });
